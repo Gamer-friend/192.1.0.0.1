@@ -1,0 +1,2 @@
+#bin Bash
+XXXX-XXXX-02FF=PL93
